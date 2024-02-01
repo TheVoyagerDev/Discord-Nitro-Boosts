@@ -2,7 +2,7 @@
 
 🎵 Install --> [Releases](https://github.com/The-Voyager-Dev/Discord-Nitro-Boosts/releases)
 
-![Boost Logo](boost.png)
+![Boost Logo](boost.gif)
 
 
 # Overview
