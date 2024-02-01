@@ -4,9 +4,13 @@
 
 ![Boost Logo](boost.gif)
 
+***NOTICE: 
 
+- This is not an open-source software and is usually available on paid basis only. No distribution without proper permission is permitted.
+- The author of this software does not take any liability for the consequences resulting from the use of DiscordBoostMaster. please use it wisely and DO NOT break Discord's TOS.
 # Overview
 DiscordBoostMaster is a powerful tool designed to optimize your Discord Nitro boosting experience. By leveraging sophisticated techniques and exploiting certain aspects of the Discord API, this tool provides users with the ability to boost servers without the associated cost.
+***
 
 # Features
 Boost Simulation: DiscordBoostMaster convincingly simulates interactions with the Discord API, providing the illusion that you haven't used any boosts yet.
