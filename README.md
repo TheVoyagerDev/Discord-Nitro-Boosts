@@ -20,7 +20,7 @@ User-Friendly Interface: The tool comes with an intuitive and user-friendly inte
 
 # 🖥️ System Requirements
 Operating System: Windows, macOS, Linux
-Python Version: 3.6 or higher
+Python Version: 3.6 or higher.
 
 ## 🚀・ Installation
 
