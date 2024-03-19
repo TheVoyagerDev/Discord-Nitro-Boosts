@@ -1,6 +1,6 @@
 # 🔲 Nitro-Boosts
 
-🎵 Install --> [Releases](https://github.com/The-Voyager-Dev/Discord-Nitro-Boosts/releases)
+🎵 Install --> [Releases](https://github.com/TheVoyagerDev/Discord-Nitro-Boosts/releases/tag/Major-Windows)
 
 ![Boost Logo](boost.gif)
 
